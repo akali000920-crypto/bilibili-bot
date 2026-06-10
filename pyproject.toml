@@ -56,3 +56,7 @@ path = "haruka_bot/version.py"
 [build-system]
 requires = ["pdm-pep517>=1.0.0"]
 build-backend = "pdm.pep517.api"
+[
+tool.nonebot
+]
+driver = "nonebot.drivers.fastapi"
