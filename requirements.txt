@@ -9,3 +9,4 @@ fastapi>=0.100.0
 uvicorn[standard]>=0.23.2
 nonebot-plugin-gocqhttp
 nonebot-plugin-guild-patch
+nb-cli>=0.6.0
